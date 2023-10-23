@@ -1,13 +1,18 @@
 # AppleScripts
 
-A collection of handcrafted and useful applescripts for every occasion.
+A collection of handcrafted and useful AppleScripts for every occasion.
+
 
 ## List of scripts
 
-### Rotate Display v1.0
+The table below summarizes all the scripts in this repository. Status indicates with which macOS version has been tested (a 0 should indicates a script in development). Check comments in every script for further instructions.
 
-Toggles between 0 and 270 degrees a secundary display.
 
+| Script | Version | Description | Status | 
+| :- | :-: | :- | :-: |
+| **Rotate Display** | 1.0 | Toggles between 0 and 270 degrees a secundary display. | 13 |
+| **Pull All Windows** | 1.0 | Move all windows from a secundary display into the main one.| 13 |
+| **Push All Windows** | 1.0 | Move all windows to a secundary display from the main one.| 13 |
 
 
 ## Legal
